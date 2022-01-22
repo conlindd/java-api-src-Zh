@@ -1,0 +1,27 @@
+git push -u origin master -f 强制推送-->小心使用
+
+IDEA用习惯了，经常忘记怎么用git初始化项目，记个笔记备忘
+将本地项目添加到gitee仓库的操作流程：
+
+码云上创建一个项目，例如 fighting
+
+本地创建一个文件夹D:/Java/fighting，然后鼠标右击选择git bash here
+
+使用 git init 命令，初始化一个git本地仓库（项目）,会在本地创建一个 .git 的文件夹
+
+
+使用git remote add origin fighting的git克隆地址 //添加远程仓库
+// 示例：git remote add origin https://gitee.com/xxxx/fighting.git
+
+使用 git pull origin master 命令，将码云上的仓库pull到本地
+
+将要上传的文件，添加到刚刚创建的文件夹fighting里
+
+使用git add . 或者 git add + 文件名 (将文件保存到缓存区)
+
+使用git commit -m ‘描述新添加的文件内容’ (就是提交代码的注释) （文件保存到本地仓库）
+
+使用git push origin master，将本地仓库推送到远程仓库
+完成！
+123
+

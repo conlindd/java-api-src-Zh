@@ -1,18 +1,26 @@
+**Github仓库地址**:https://github.com/conlindd/java-api-src-Zh.git
+
+**Gitee仓库地址**:https://gitee.com/xlou-s/java-api-src-Chinese.git
+
+**Java 8中文Api文档地址**:http://love7o.com:8081/java8apizh/index.html
+
+**个人导航**:http://love7o.com:8081
+
 # 一.java_api_文档中文使用教程
 
 ### 1.克隆到本地
 
-![image-20220123004734340](Markdown_Yong_JPG/image-20220123004734340.png)
+![image-20220123004734340](https://gitee.com/N_code/images_md/raw/master/images/202201230104636.png)
 
 ### 2.在idea中设置
 
-![image-20220123004819422](Markdown_Yong_JPG/image-20220123004819422.png)
+![image-20220123004819422](https://gitee.com/N_code/images_md/raw/master/images/202201230104638.png)
 
 ### 3.测试使用
 
 > 点击自己建的文件源码,ctrl+Q就能查看
 
-![image-20220123005022147](Markdown_Yong_JPG/image-20220123005022147.png)
+![image-20220123005022147](https://gitee.com/N_code/images_md/raw/master/images/202201230104639.png)
 
 
 
@@ -24,30 +32,30 @@
 
 ### 1.将这个文件夹文件克隆到本地
 
-![image-20220123005311859](Markdown_Yong_JPG/image-20220123005311859.png)
+![image-20220123005311859](https://gitee.com/N_code/images_md/raw/master/images/202201230104640.png)
 
 ### 2.右击整个添加成zip压缩包
 
-![image-20220123005515873](Markdown_Yong_JPG/image-20220123005515873.png)
+![image-20220123005515873](https://gitee.com/N_code/images_md/raw/master/images/202201230104641.png)
 
 #### 得到压缩包
 
-![image-20220123005548497](Markdown_Yong_JPG/image-20220123005548497.png)
+![image-20220123005548497](https://gitee.com/N_code/images_md/raw/master/images/202201230104642.png)
 
 ### 3.在idea中设置
 
-![image-20220123005716238](Markdown_Yong_JPG/image-20220123005716238.png)
+![image-20220123005716238](https://gitee.com/N_code/images_md/raw/master/images/202201230104643.png)
 
 ### 4.等待扫描完成
 
-![image-20220123005750817](Markdown_Yong_JPG/image-20220123005750817.png)
+![image-20220123005750817](https://gitee.com/N_code/images_md/raw/master/images/202201230104644.png)
 
 ### 5.点击方法名,进行测试
 
-![image-20220123005903062](Markdown_Yong_JPG/image-20220123005903062.png)
+![image-20220123005903062](https://gitee.com/N_code/images_md/raw/master/images/202201230104645.png)
 
-![image-20220123005831298](Markdown_Yong_JPG/image-20220123005831298.png)
+![image-20220123005831298](https://gitee.com/N_code/images_md/raw/master/images/202201230104646.png)
 
-![image-20220123010132442](Markdown_Yong_JPG/image-20220123010132442.png)
+![image-20220123010132442](https://gitee.com/N_code/images_md/raw/master/images/202201230104647.png)
 
-![image-20220123010200560](Markdown_Yong_JPG/image-20220123010200560.png)
+![image-20220123010200560](https://gitee.com/N_code/images_md/raw/master/images/202201230103107.png)

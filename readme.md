@@ -1,3 +1,11 @@
+**Github仓库地址**:https://github.com/conlindd/java-api-src-Zh.git
+
+**Gitee仓库地址**:https://gitee.com/xlou-s/java-api-src-Chinese.git
+
+**Java 8中文Api文档地址**:http://love7o.com:8081/java8apizh/index.html
+
+**个人导航**:http://love7o.com:8081
+
 # 一.java_api_文档中文使用教程
 
 ### 1.克隆到本地
